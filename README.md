@@ -30,4 +30,5 @@ Then we cut off the excess lengths of the segments using **trim**.
 So far, we have had a slab partitioned into 10 subslabs.
 
 ## Export lengths of identity segments
-Now we need to create a new .dwg file, and paste the current slab to that file. Then we export lengths of the identity segments to Excel. This can be achieved using the **dataextraction** command. After typing this command and hitting enter， a GUI will occur.
+Now we need to create a new .dwg file, and paste the current slab to that file. Then we export lengths of the identity segments to Excel. This can be achieved using the **dataextraction** command. After typing this command and hitting enter, a GUI will occur.
+
